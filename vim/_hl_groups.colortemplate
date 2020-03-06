@@ -55,11 +55,11 @@ String               green         none
 Statement            br_yellow     none          bold
 Identifier           cyan          none
 PreProc              br_magenta    none
-Special              blue          none
+Special              br_blue       none
 Type                 green         none
 Error                red           none          bold
 Todo                 br_yellow     bg_1          reverse
-Underlined           blue          none          underline
+Underlined           br_blue       none          underline
 
 # commonly linked groups
 Function          -> Identifier
