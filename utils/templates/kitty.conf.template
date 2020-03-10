@@ -1,9 +1,10 @@
 # vim:fileencoding=utf-8:ft=conf:foldmethod=marker
 
+#: !!COL!{name}! color scheme for Kitty
+
 #: Color scheme {{{
 
 #: The foreground and background colors
-!!COL!{name}! color scheme for Kitty
 foreground !!COL!{fg.srgb}!
 background !!COL!{bg.srgb}!
 
